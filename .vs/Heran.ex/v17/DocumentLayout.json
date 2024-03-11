@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|c:\\users\\brupa\\onedrive\\\u00E1rea de trabalho\\cursos de ti\\ex de ti\\heran.ex\\heran.ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|solutionrelative:heran.ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|c:\\users\\brupa\\onedrive\\\u00E1rea de trabalho\\cursos de ti\\ex de ti\\heran.ex\\heran.ex\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|solutionrelative:heran.ex\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|c:\\users\\brupa\\onedrive\\\u00E1rea de trabalho\\cursos de ti\\ex de ti\\heran.ex\\heran.ex\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|solutionrelative:heran.ex\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|c:\\users\\brupa\\onedrive\\\u00E1rea de trabalho\\cursos de ti\\ex de ti\\heran.ex\\heran.ex\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAD4E4A-21BF-4AD1-ACF2-20C81A21A1EC}|Heran.ex\\Heran.ex.csproj|solutionrelative:heran.ex\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Heran.ex\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\Company.cs",
+              "RelativeToolTip": "Heran.ex\\Entities\\Company.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:28:10.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "Heran.ex\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\Individual.cs",
+              "RelativeToolTip": "Heran.ex\\Entities\\Individual.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:25:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "Heran.ex\\Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "Heran.ex\\Entities\\TaxPayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:10:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Program.cs",
+              "RelativeDocumentMoniker": "Heran.ex\\Program.cs",
+              "ToolTip": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\Heran.ex\\Heran.ex\\Program.cs",
+              "RelativeToolTip": "Heran.ex\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:07:41.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
